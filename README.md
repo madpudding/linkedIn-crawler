@@ -7,3 +7,5 @@
 （2）：linkedin-cookie负责cookie信息
 （3）：linkedin—redis负责存储检验
 
+领英上个人信息还是挺多，说起来这也算小小的侵犯隐私了，罪过，罪过。
+
