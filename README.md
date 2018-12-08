@@ -6,6 +6,7 @@
 （1）：linkedin_crawler
 （2）：linkedin-cookie负责cookie信息
 （3）：linkedin—redis负责存储检验
+具体介绍可以查看：https://blog.csdn.net/qq_40244755/article/details/84896938
 
 领英上个人信息还是挺多，说起来这也算小小的侵犯隐私了，罪过，罪过。
 
